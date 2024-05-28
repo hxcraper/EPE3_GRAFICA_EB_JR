@@ -1,21 +1,21 @@
 id,fecha,producto,categoria,precio,cantidad,total
-1,2022-06-29,Computador Gamer i5,Tecnologï¿½a,990000.0,1,990000.0
-2,2024-04-18,"Televisor 50"" 4K",Tecnologï¿½a,1500000.0,1,1500000.0
-3,2023-12-15,Celular Samsung Galaxy S21,Tecnologï¿½a,1200000.0,1,1200000.0
-4,2024-02-23,Tablet iPad Air,Tecnologï¿½a,2000000.0,1,2000000.0
-5,2021-01-13,Laptop Dell XPS 13,Tecnologï¿½a,2500000.0,1,2500000.0
-6,2024-04-18,Audï¿½fonos Bluetooth Sony,Tecnologï¿½a,350000.0,1,350000.0
-7,2021-04-26,Cï¿½mara Canon EOS M50,Tecnologï¿½a,1800000.0,1,1800000.0
-8,2022-04-18,Smartwatch Apple Watch Series 7,Tecnologï¿½a,1300000.0,1,1300000.0
+1,2022-06-29,Computador Gamer i5,Tecnología,990000.0,3,2970000.0
+2,2024-04-18,"Televisor 50"" 4K",Tecnología,1500000.0,2,3000000.0
+3,2023-12-15,Celular Samsung Galaxy S21,Tecnología,1200000.0,5,6000000.0
+4,2024-02-23,Tablet iPad Air,Tecnología,2000000.0,2,4000000.0
+5,2021-01-13,Laptop Dell XPS 13,Tecnología,2500000.0,2,5000000.0
+6,2024-04-18,Audífonos Bluetooth Sony,Tecnología,350000.0,1,350000.0
+7,2021-04-26,Cámara Canon EOS M50,Tecnología,1800000.0,1,1800000.0
+8,2022-04-18,Smartwatch Apple Watch Series 7,Tecnología,1300000.0,3,3900000.0
 9,2023-06-06,Zapatillas Deportivas Nike,Ropa,300000.0,2,600000.0
 10,2023-06-09,Camiseta Adidas,Ropa,80000.0,3,240000.0
-11,2023-03-27,Pantalï¿½n Levi's,Ropa,150000.0,1,150000.0
+11,2023-03-27,Pantalón Levi's,Ropa,150000.0,5,750000.0
 12,2023-12-06,Chaqueta de Cuero,Ropa,350000.0,1,350000.0
 13,2020-09-20,Vestido de Fiesta,Ropa,200000.0,2,400000.0
 14,2022-07-20,Set de Sartenes Tefal,Cocina,180000.0,1,180000.0
-15,2022-03-23,Licuadora Oster,Cocina,250000.0,1,250000.0
-16,2022-10-13,Microondas Samsung,Cocina,450000.0,1,450000.0
-17,2023-03-24,Horno Elï¿½ctrico,Cocina,300000.0,1,300000.0
-18,2024-03-25,Cafetera Nespresso,Cocina,350000.0,1,350000.0
+15,2022-03-23,Licuadora Foster,Cocina,250000.0,2,500000.0
+16,2022-10-13,Microondas Samsung,Cocina,450000.0,3,1350000.0
+17,2023-03-24,Horno Eléctrico,Cocina,300000.0,5,1500000.0
+18,2024-03-25,Cafetera Expressp,Cocina,350000.0,1,350000.0
 19,2024-02-17,Juego de Cubiertos,Cocina,120000.0,2,240000.0
 20,2023-07-06,Refrigerador LG,Cocina,2000000.0,1,2000000.0
